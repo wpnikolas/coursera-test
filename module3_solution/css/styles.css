@@ -1,0 +1,11 @@
+body {
+	padding-top: 70px;
+}
+
+#info {
+	text-align: justify;
+	border: 1px solid black;
+	background-color: #99ddff;
+	padding: 15px;
+	margin: 10px 5px 10px 5px;
+}
